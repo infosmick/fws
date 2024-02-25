@@ -3,7 +3,6 @@
   "builds": [
     {
       "chipFamily": "ESP32",
-      "improv": true,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
         { "path": "partitions.bin", "offset": 32768 },
@@ -13,7 +12,6 @@
     },
     {
       "chipFamily": "ESP8266",
-      "improv": true,
       "parts": [
         { "path": "fwi_v02r01.ino.bin", "offset": 0 }
       ]
