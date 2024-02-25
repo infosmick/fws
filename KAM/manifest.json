@@ -1,5 +1,5 @@
 {
-  "name": "FWI",
+  "name": "KAM_FWI",
   "builds": [
     {
       "chipFamily": "ESP32",
