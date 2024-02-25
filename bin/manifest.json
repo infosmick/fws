@@ -13,7 +13,7 @@
     {
       "chipFamily": "ESP8266",
       "parts": [
-        { "path": "fwi_v02r01.ino.bin", "offset": 0 }
+        { "path": "KAM_Installer_02.01.82.bin", "offset": 0 }
       ]
     }
   ]
