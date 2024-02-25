@@ -13,6 +13,7 @@
     },
     {
       "chipFamily": "ESP8266",
+      "improv": true,
       "parts": [
         { "path": "fwi_v02r01.ino.bin", "offset": 0 }
       ]
