@@ -4,7 +4,7 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-  	    { "path": "32/boot_app0.bin", "offset": 0 },
+        { "path": "32/boot_app0.bin", "offset": 0 },
         { "path": "32/bootloader_dio_80m.bin", "offset": 4096 },
         { "path": "32/fwi_v02r01.ino.partitions.bin", "offset": 32768 },
         { "path": "32/fwi_v02r01.ino.bin", "offset": 65536 }
